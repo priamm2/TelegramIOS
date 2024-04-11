@@ -15,6 +15,50 @@
 		4EB967FE2BC7A15D007ABB1A /* TelegramIOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB967FD2BC7A15D007ABB1A /* TelegramIOSTests.swift */; };
 		4EB968082BC7A15D007ABB1A /* TelegramIOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968072BC7A15D007ABB1A /* TelegramIOSUITests.swift */; };
 		4EB9680A2BC7A15D007ABB1A /* TelegramIOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968092BC7A15D007ABB1A /* TelegramIOSUITestsLaunchTests.swift */; };
+		4EB968182BC7A257007ABB1A /* Api0.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968172BC7A257007ABB1A /* Api0.swift */; };
+		4EB9681A2BC7A2FB007ABB1A /* Api1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968192BC7A2FB007ABB1A /* Api1.swift */; };
+		4EB9681C2BC7A346007ABB1A /* Api10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9681B2BC7A346007ABB1A /* Api10.swift */; };
+		4EB9681E2BC7A394007ABB1A /* TelegramApiLogger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9681D2BC7A393007ABB1A /* TelegramApiLogger.swift */; };
+		4EB968202BC7A3D9007ABB1A /* SecretApiLayer8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9681F2BC7A3D9007ABB1A /* SecretApiLayer8.swift */; };
+		4EB968222BC7A6E6007ABB1A /* Api11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968212BC7A6E6007ABB1A /* Api11.swift */; };
+		4EB968242BC7A71D007ABB1A /* Api12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968232BC7A71D007ABB1A /* Api12.swift */; };
+		4EB968262BC7A756007ABB1A /* Api13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968252BC7A756007ABB1A /* Api13.swift */; };
+		4EB968282BC7A78E007ABB1A /* Api14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968272BC7A78E007ABB1A /* Api14.swift */; };
+		4EB9682A2BC7A803007ABB1A /* Api15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968292BC7A803007ABB1A /* Api15.swift */; };
+		4EB9682C2BC7A82A007ABB1A /* Api16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9682B2BC7A82A007ABB1A /* Api16.swift */; };
+		4EB9682E2BC7A856007ABB1A /* Api17.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9682D2BC7A856007ABB1A /* Api17.swift */; };
+		4EB968302BC7A886007ABB1A /* Api18.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9682F2BC7A886007ABB1A /* Api18.swift */; };
+		4EB968322BC7A8B6007ABB1A /* Api19.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968312BC7A8B6007ABB1A /* Api19.swift */; };
+		4EB968342BC7A8E8007ABB1A /* Api2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968332BC7A8E8007ABB1A /* Api2.swift */; };
+		4EB968362BC7A91C007ABB1A /* Api20.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968352BC7A91C007ABB1A /* Api20.swift */; };
+		4EB968382BC7A951007ABB1A /* Api21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968372BC7A951007ABB1A /* Api21.swift */; };
+		4EB9683A2BC7A97A007ABB1A /* Api22.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968392BC7A97A007ABB1A /* Api22.swift */; };
+		4EB9683C2BC7A9AE007ABB1A /* Api23.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9683B2BC7A9AE007ABB1A /* Api23.swift */; };
+		4EB9683E2BC7A9F7007ABB1A /* Api24.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9683D2BC7A9F7007ABB1A /* Api24.swift */; };
+		4EB968402BC7AA3E007ABB1A /* Api25.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9683F2BC7AA3E007ABB1A /* Api25.swift */; };
+		4EB968422BC7AA74007ABB1A /* Api26.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968412BC7AA74007ABB1A /* Api26.swift */; };
+		4EB968442BC7AAA0007ABB1A /* Api27.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968432BC7AAA0007ABB1A /* Api27.swift */; };
+		4EB968462BC7AAD7007ABB1A /* Api28.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968452BC7AAD7007ABB1A /* Api28.swift */; };
+		4EB968482BC7AB15007ABB1A /* Api29.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968472BC7AB15007ABB1A /* Api29.swift */; };
+		4EB9684A2BC7AB4A007ABB1A /* Api3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968492BC7AB4A007ABB1A /* Api3.swift */; };
+		4EB9684C2BC7AB7C007ABB1A /* Api30.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9684B2BC7AB7C007ABB1A /* Api30.swift */; };
+		4EB9684E2BC7ABA6007ABB1A /* Api31.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9684D2BC7ABA6007ABB1A /* Api31.swift */; };
+		4EB968502BC7ABDA007ABB1A /* Api32.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9684F2BC7ABDA007ABB1A /* Api32.swift */; };
+		4EB968522BC7AC0D007ABB1A /* Api33.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968512BC7AC0D007ABB1A /* Api33.swift */; };
+		4EB968542BC7AC38007ABB1A /* Api34.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968532BC7AC38007ABB1A /* Api34.swift */; };
+		4EB968562BC7AC91007ABB1A /* Api35.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968552BC7AC91007ABB1A /* Api35.swift */; };
+		4EB968582BC7ACCE007ABB1A /* DeserializeFunctionResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968572BC7ACCE007ABB1A /* DeserializeFunctionResponse.swift */; };
+		4EB9685A2BC7AD02007ABB1A /* Buffer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968592BC7AD02007ABB1A /* Buffer.swift */; };
+		4EB9685C2BC7AD48007ABB1A /* Api4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9685B2BC7AD48007ABB1A /* Api4.swift */; };
+		4EB9685E2BC7AD86007ABB1A /* Api5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9685D2BC7AD86007ABB1A /* Api5.swift */; };
+		4EB968602BC7ADB7007ABB1A /* Api6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9685F2BC7ADB7007ABB1A /* Api6.swift */; };
+		4EB968622BC7ADE3007ABB1A /* Api7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968612BC7ADE3007ABB1A /* Api7.swift */; };
+		4EB968642BC7AE12007ABB1A /* Api8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968632BC7AE12007ABB1A /* Api8.swift */; };
+		4EB968662BC7AE43007ABB1A /* Api9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968652BC7AE43007ABB1A /* Api9.swift */; };
+		4EB968682BC7AEA2007ABB1A /* SecretApiLayer101.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968672BC7AEA2007ABB1A /* SecretApiLayer101.swift */; };
+		4EB9686A2BC7AEE3007ABB1A /* SecretApiLayer144.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB968692BC7AEE3007ABB1A /* SecretApiLayer144.swift */; };
+		4EB9686C2BC7AF52007ABB1A /* SecretApiLayer46.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9686B2BC7AF52007ABB1A /* SecretApiLayer46.swift */; };
+		4EB9686E2BC7AF83007ABB1A /* SecretApiLayer73.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9686D2BC7AF83007ABB1A /* SecretApiLayer73.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +90,50 @@
 		4EB968032BC7A15D007ABB1A /* TelegramIOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TelegramIOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EB968072BC7A15D007ABB1A /* TelegramIOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelegramIOSUITests.swift; sourceTree = "<group>"; };
 		4EB968092BC7A15D007ABB1A /* TelegramIOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelegramIOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4EB968172BC7A257007ABB1A /* Api0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api0.swift; sourceTree = "<group>"; };
+		4EB968192BC7A2FB007ABB1A /* Api1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api1.swift; sourceTree = "<group>"; };
+		4EB9681B2BC7A346007ABB1A /* Api10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api10.swift; sourceTree = "<group>"; };
+		4EB9681D2BC7A393007ABB1A /* TelegramApiLogger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelegramApiLogger.swift; sourceTree = "<group>"; };
+		4EB9681F2BC7A3D9007ABB1A /* SecretApiLayer8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretApiLayer8.swift; sourceTree = "<group>"; };
+		4EB968212BC7A6E6007ABB1A /* Api11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api11.swift; sourceTree = "<group>"; };
+		4EB968232BC7A71D007ABB1A /* Api12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api12.swift; sourceTree = "<group>"; };
+		4EB968252BC7A756007ABB1A /* Api13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api13.swift; sourceTree = "<group>"; };
+		4EB968272BC7A78E007ABB1A /* Api14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api14.swift; sourceTree = "<group>"; };
+		4EB968292BC7A803007ABB1A /* Api15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api15.swift; sourceTree = "<group>"; };
+		4EB9682B2BC7A82A007ABB1A /* Api16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api16.swift; sourceTree = "<group>"; };
+		4EB9682D2BC7A856007ABB1A /* Api17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api17.swift; sourceTree = "<group>"; };
+		4EB9682F2BC7A886007ABB1A /* Api18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api18.swift; sourceTree = "<group>"; };
+		4EB968312BC7A8B6007ABB1A /* Api19.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api19.swift; sourceTree = "<group>"; };
+		4EB968332BC7A8E8007ABB1A /* Api2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api2.swift; sourceTree = "<group>"; };
+		4EB968352BC7A91C007ABB1A /* Api20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api20.swift; sourceTree = "<group>"; };
+		4EB968372BC7A951007ABB1A /* Api21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api21.swift; sourceTree = "<group>"; };
+		4EB968392BC7A97A007ABB1A /* Api22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api22.swift; sourceTree = "<group>"; };
+		4EB9683B2BC7A9AE007ABB1A /* Api23.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api23.swift; sourceTree = "<group>"; };
+		4EB9683D2BC7A9F7007ABB1A /* Api24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api24.swift; sourceTree = "<group>"; };
+		4EB9683F2BC7AA3E007ABB1A /* Api25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api25.swift; sourceTree = "<group>"; };
+		4EB968412BC7AA74007ABB1A /* Api26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api26.swift; sourceTree = "<group>"; };
+		4EB968432BC7AAA0007ABB1A /* Api27.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api27.swift; sourceTree = "<group>"; };
+		4EB968452BC7AAD7007ABB1A /* Api28.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api28.swift; sourceTree = "<group>"; };
+		4EB968472BC7AB15007ABB1A /* Api29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api29.swift; sourceTree = "<group>"; };
+		4EB968492BC7AB4A007ABB1A /* Api3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api3.swift; sourceTree = "<group>"; };
+		4EB9684B2BC7AB7C007ABB1A /* Api30.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api30.swift; sourceTree = "<group>"; };
+		4EB9684D2BC7ABA6007ABB1A /* Api31.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api31.swift; sourceTree = "<group>"; };
+		4EB9684F2BC7ABDA007ABB1A /* Api32.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api32.swift; sourceTree = "<group>"; };
+		4EB968512BC7AC0D007ABB1A /* Api33.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api33.swift; sourceTree = "<group>"; };
+		4EB968532BC7AC38007ABB1A /* Api34.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api34.swift; sourceTree = "<group>"; };
+		4EB968552BC7AC91007ABB1A /* Api35.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api35.swift; sourceTree = "<group>"; };
+		4EB968572BC7ACCE007ABB1A /* DeserializeFunctionResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeserializeFunctionResponse.swift; sourceTree = "<group>"; };
+		4EB968592BC7AD02007ABB1A /* Buffer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buffer.swift; sourceTree = "<group>"; };
+		4EB9685B2BC7AD48007ABB1A /* Api4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api4.swift; sourceTree = "<group>"; };
+		4EB9685D2BC7AD86007ABB1A /* Api5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api5.swift; sourceTree = "<group>"; };
+		4EB9685F2BC7ADB7007ABB1A /* Api6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api6.swift; sourceTree = "<group>"; };
+		4EB968612BC7ADE3007ABB1A /* Api7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api7.swift; sourceTree = "<group>"; };
+		4EB968632BC7AE12007ABB1A /* Api8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api8.swift; sourceTree = "<group>"; };
+		4EB968652BC7AE43007ABB1A /* Api9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api9.swift; sourceTree = "<group>"; };
+		4EB968672BC7AEA2007ABB1A /* SecretApiLayer101.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretApiLayer101.swift; sourceTree = "<group>"; };
+		4EB968692BC7AEE3007ABB1A /* SecretApiLayer144.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretApiLayer144.swift; sourceTree = "<group>"; };
+		4EB9686B2BC7AF52007ABB1A /* SecretApiLayer46.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretApiLayer46.swift; sourceTree = "<group>"; };
+		4EB9686D2BC7AF83007ABB1A /* SecretApiLayer73.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretApiLayer73.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +184,7 @@
 		4EB967E92BC7A15C007ABB1A /* TelegramIOS */ = {
 			isa = PBXGroup;
 			children = (
+				4EB968162BC7A182007ABB1A /* TelegramAPI */,
 				4EB967EA2BC7A15C007ABB1A /* TelegramIOSApp.swift */,
 				4EB967EC2BC7A15C007ABB1A /* ContentView.swift */,
 				4EB967EE2BC7A15C007ABB1A /* Item.swift */,
@@ -128,6 +217,57 @@
 				4EB968092BC7A15D007ABB1A /* TelegramIOSUITestsLaunchTests.swift */,
 			);
 			path = TelegramIOSUITests;
+			sourceTree = "<group>";
+		};
+		4EB968162BC7A182007ABB1A /* TelegramAPI */ = {
+			isa = PBXGroup;
+			children = (
+				4EB968172BC7A257007ABB1A /* Api0.swift */,
+				4EB968192BC7A2FB007ABB1A /* Api1.swift */,
+				4EB9681B2BC7A346007ABB1A /* Api10.swift */,
+				4EB9681D2BC7A393007ABB1A /* TelegramApiLogger.swift */,
+				4EB9681F2BC7A3D9007ABB1A /* SecretApiLayer8.swift */,
+				4EB968212BC7A6E6007ABB1A /* Api11.swift */,
+				4EB968232BC7A71D007ABB1A /* Api12.swift */,
+				4EB968252BC7A756007ABB1A /* Api13.swift */,
+				4EB968272BC7A78E007ABB1A /* Api14.swift */,
+				4EB968292BC7A803007ABB1A /* Api15.swift */,
+				4EB9682B2BC7A82A007ABB1A /* Api16.swift */,
+				4EB9682D2BC7A856007ABB1A /* Api17.swift */,
+				4EB9682F2BC7A886007ABB1A /* Api18.swift */,
+				4EB968312BC7A8B6007ABB1A /* Api19.swift */,
+				4EB968332BC7A8E8007ABB1A /* Api2.swift */,
+				4EB968352BC7A91C007ABB1A /* Api20.swift */,
+				4EB968372BC7A951007ABB1A /* Api21.swift */,
+				4EB968392BC7A97A007ABB1A /* Api22.swift */,
+				4EB9683B2BC7A9AE007ABB1A /* Api23.swift */,
+				4EB9683D2BC7A9F7007ABB1A /* Api24.swift */,
+				4EB9683F2BC7AA3E007ABB1A /* Api25.swift */,
+				4EB968412BC7AA74007ABB1A /* Api26.swift */,
+				4EB968432BC7AAA0007ABB1A /* Api27.swift */,
+				4EB968452BC7AAD7007ABB1A /* Api28.swift */,
+				4EB968472BC7AB15007ABB1A /* Api29.swift */,
+				4EB968492BC7AB4A007ABB1A /* Api3.swift */,
+				4EB9684B2BC7AB7C007ABB1A /* Api30.swift */,
+				4EB9684D2BC7ABA6007ABB1A /* Api31.swift */,
+				4EB9684F2BC7ABDA007ABB1A /* Api32.swift */,
+				4EB968512BC7AC0D007ABB1A /* Api33.swift */,
+				4EB968532BC7AC38007ABB1A /* Api34.swift */,
+				4EB968552BC7AC91007ABB1A /* Api35.swift */,
+				4EB968572BC7ACCE007ABB1A /* DeserializeFunctionResponse.swift */,
+				4EB968592BC7AD02007ABB1A /* Buffer.swift */,
+				4EB9685B2BC7AD48007ABB1A /* Api4.swift */,
+				4EB9685D2BC7AD86007ABB1A /* Api5.swift */,
+				4EB9685F2BC7ADB7007ABB1A /* Api6.swift */,
+				4EB968612BC7ADE3007ABB1A /* Api7.swift */,
+				4EB968632BC7AE12007ABB1A /* Api8.swift */,
+				4EB968652BC7AE43007ABB1A /* Api9.swift */,
+				4EB968672BC7AEA2007ABB1A /* SecretApiLayer101.swift */,
+				4EB968692BC7AEE3007ABB1A /* SecretApiLayer144.swift */,
+				4EB9686B2BC7AF52007ABB1A /* SecretApiLayer46.swift */,
+				4EB9686D2BC7AF83007ABB1A /* SecretApiLayer73.swift */,
+			);
+			path = TelegramAPI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -260,9 +400,53 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EB9684A2BC7AB4A007ABB1A /* Api3.swift in Sources */,
+				4EB968622BC7ADE3007ABB1A /* Api7.swift in Sources */,
 				4EB967ED2BC7A15C007ABB1A /* ContentView.swift in Sources */,
+				4EB9682E2BC7A856007ABB1A /* Api17.swift in Sources */,
+				4EB968282BC7A78E007ABB1A /* Api14.swift in Sources */,
+				4EB968562BC7AC91007ABB1A /* Api35.swift in Sources */,
+				4EB968242BC7A71D007ABB1A /* Api12.swift in Sources */,
+				4EB968502BC7ABDA007ABB1A /* Api32.swift in Sources */,
+				4EB9682C2BC7A82A007ABB1A /* Api16.swift in Sources */,
+				4EB968422BC7AA74007ABB1A /* Api26.swift in Sources */,
+				4EB9683C2BC7A9AE007ABB1A /* Api23.swift in Sources */,
+				4EB968482BC7AB15007ABB1A /* Api29.swift in Sources */,
+				4EB9681C2BC7A346007ABB1A /* Api10.swift in Sources */,
+				4EB968402BC7AA3E007ABB1A /* Api25.swift in Sources */,
+				4EB9683E2BC7A9F7007ABB1A /* Api24.swift in Sources */,
+				4EB968322BC7A8B6007ABB1A /* Api19.swift in Sources */,
+				4EB9686C2BC7AF52007ABB1A /* SecretApiLayer46.swift in Sources */,
+				4EB9683A2BC7A97A007ABB1A /* Api22.swift in Sources */,
+				4EB968662BC7AE43007ABB1A /* Api9.swift in Sources */,
 				4EB967EF2BC7A15C007ABB1A /* Item.swift in Sources */,
+				4EB9681A2BC7A2FB007ABB1A /* Api1.swift in Sources */,
+				4EB968542BC7AC38007ABB1A /* Api34.swift in Sources */,
+				4EB968682BC7AEA2007ABB1A /* SecretApiLayer101.swift in Sources */,
+				4EB968222BC7A6E6007ABB1A /* Api11.swift in Sources */,
+				4EB9685A2BC7AD02007ABB1A /* Buffer.swift in Sources */,
+				4EB9686E2BC7AF83007ABB1A /* SecretApiLayer73.swift in Sources */,
+				4EB9684E2BC7ABA6007ABB1A /* Api31.swift in Sources */,
+				4EB968302BC7A886007ABB1A /* Api18.swift in Sources */,
+				4EB968362BC7A91C007ABB1A /* Api20.swift in Sources */,
+				4EB9684C2BC7AB7C007ABB1A /* Api30.swift in Sources */,
+				4EB968522BC7AC0D007ABB1A /* Api33.swift in Sources */,
 				4EB967EB2BC7A15C007ABB1A /* TelegramIOSApp.swift in Sources */,
+				4EB9686A2BC7AEE3007ABB1A /* SecretApiLayer144.swift in Sources */,
+				4EB968202BC7A3D9007ABB1A /* SecretApiLayer8.swift in Sources */,
+				4EB968462BC7AAD7007ABB1A /* Api28.swift in Sources */,
+				4EB9682A2BC7A803007ABB1A /* Api15.swift in Sources */,
+				4EB968382BC7A951007ABB1A /* Api21.swift in Sources */,
+				4EB9685C2BC7AD48007ABB1A /* Api4.swift in Sources */,
+				4EB968642BC7AE12007ABB1A /* Api8.swift in Sources */,
+				4EB968582BC7ACCE007ABB1A /* DeserializeFunctionResponse.swift in Sources */,
+				4EB9685E2BC7AD86007ABB1A /* Api5.swift in Sources */,
+				4EB968442BC7AAA0007ABB1A /* Api27.swift in Sources */,
+				4EB9681E2BC7A394007ABB1A /* TelegramApiLogger.swift in Sources */,
+				4EB968342BC7A8E8007ABB1A /* Api2.swift in Sources */,
+				4EB968602BC7ADB7007ABB1A /* Api6.swift in Sources */,
+				4EB968182BC7A257007ABB1A /* Api0.swift in Sources */,
+				4EB968262BC7A756007ABB1A /* Api13.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
